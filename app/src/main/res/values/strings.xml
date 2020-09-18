@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CentermPosOverseaService</string>
+    <!-- start 2018-03-06 泰国身份证设备错误码信息 linpeita@centerm.com -->
+    <string name="tha_idcard_device_is_busy">设备繁忙</string>
+    <string name="tha_idcard_timeout">设备超时</string>
+    <string name="tha_idcard_canceled">操作被取消</string>
+    <string name="tha_idcard_iccard_no_exist">未获取到IC卡设备</string>
+    <string name="tha_idcard_undetected">未检测到身份证</string>
+    <string name="tha_idcard_reset_failed">IC卡复位失败</string>
+    <string name="tha_idcard_read_failed">读身份证证异常</string>
+    <string name="tha_idcard_app_exception">程序异常</string>
+    <string name="tha_idcard_unknown_return_code">未知返回码</string>
+    <!-- end linpeita@centerm.com -->
+
+</resources>

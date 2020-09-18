@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/classes/debug/
+/centermposoversealib/build/
+/centermposoversealib/build/intermediates/classes/debug/

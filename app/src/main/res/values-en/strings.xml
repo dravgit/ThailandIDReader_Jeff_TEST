@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CentermPosOverseaService</string>
+    <!-- start 2018-03-06 Ì©¹úÉí·ÝÖ¤Éè±¸´íÎóÂëÐÅÏ¢ linpeita@centerm.com -->
+    <string name="tha_idcard_device_is_busy">Busy equipment</string>
+    <string name="tha_idcard_timeout">Device time out</string>
+    <string name="tha_idcard_canceled">Operation was cancelled</string>
+    <string name="tha_idcard_iccard_no_exist">No access to IC Card device</string>
+    <string name="tha_idcard_undetected">Undetected ID Card</string>
+    <string name="tha_idcard_reset_failed">IC Card reset failure</string>
+    <string name="tha_idcard_read_failed">Abnormal reading of ID Card</string>
+    <string name="tha_idcard_app_exception">APP exception</string>
+    <string name="tha_idcard_unknown_return_code">Unknown return code</string>
+    <!-- end linpeita@centerm.com -->
+
+</resources>
